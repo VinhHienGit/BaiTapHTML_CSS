@@ -77,9 +77,13 @@
 </div>
 <!--Fooder -->
 <div id="footer">
-	<div class="inner" style="color: white">
-		Copyright 2008 Runsystem Corporation, All right reserved
+	<div class="inner" >
+		<p style="color: #cccccc; 
+							font-size: 12px;">
+			Copyright 2008 Runsystem Corporation, All right reserved
+		</p>
 	</div>
 </div>
+<!--  -->
 </body>
 </html>

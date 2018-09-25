@@ -8,10 +8,10 @@ div#header {
 body {
 	font-family: Verdana,"Arial",Helvetica, serif;
 	background: #2d2f35;
-	width: 1200px;
+	width: 1300px;
 }
 .inner {
-	width: 1200px;
+	width: 1300px;
 	margin: 0 auto;
 	color: #white;
 }
@@ -44,7 +44,7 @@ h3.title {
     font-weight: 300;
 }
 .content p {
-    font-size: 12px;
+    font-size: 14px;
     color: #cccccc;
 }
 img.img-intro {
@@ -59,13 +59,13 @@ img.img-intro {
 .menu ul {
 	list-style-type: none;
 	overflow: hidden;
-	width: 100%;
+	width: 95%;
 	text-align: center;
 }
 .menu ul li {
 	display: inline-block;
 	position: relative;
-	margin-left: 12px;
+	margin-left: 20px;
 }
 .menu ul li a {
 	display: inline-block;
@@ -87,28 +87,29 @@ div#main {
 	background: url(img/home_services_bg_design.gif) no-repeat right bottom;
 	float: left;
 	margin-left: 10%;
-	width: 400px;
+	width: 450px;
 }
 .info.note-2 {
 	background: url(img/home_services_bg_marketing.gif) no-repeat;
 	float: right;
 	margin-right: 10%;
-	width: 400px;
+	width: 450px;
 }
 .info h3.title {
   font-family: 
 	font-size: 20px;
-	font-weight: 500;
+	font-weight: 550;
 }
 .info p {
-	font-size: 12px;
+	font-size: 14px;
 	color: #cccccc;
 }
 .info.note-2 p {
 	margin-top: 35px;
 }
 div#footer {
-  height: 120px;
-  background: #24262a;
+  height: 100px;
+	background: #24262a url(img/bg_footer.gif) no-repeat center bottom;
   text-align: center;
 }
+
