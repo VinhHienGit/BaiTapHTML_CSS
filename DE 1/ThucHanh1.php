@@ -35,27 +35,51 @@
 			<li>
 				<a href="#">
 					<img src="img/port_thumb_point_progress.jpg" alt="Point_progress">
+					<img class="index" src="img/No1.gif" alt="No1">
 				</a>
 			</li>
 			<li>
 				<a href="#">
 					<img src="img/port_thumb_giant_impact.gif" alt="Giant_impact">
+					<img class="index" src="img/No2.gif" alt="No2">
 				</a>
 			</li>
 			<li>
 				<a href="#">
 					<img src="img/port_thumb_marsh_johnson.jpg" alt="Marsh_johnson">
+					<img class="index" src="img/No3.gif" alt="No3">
 				</a>
 			</li>
 			<li>
 				<a href="#">
 					<img src="img/port_thumb_vivio.jpg" alt="Vivio">
+					<img class="index" src="img/No4.gif" alt="No4">
 				</a>
 			</li>
 		</ul>
 	</div>
 </dir>
 <!--Main -->
+<div id="main">
+	<div class="inner">
+		<div class="info note-1">
+			<h3 class="title">Only have access to e-mail?</h3>
+			<p>
+			Only have access to e-mail? No problem. Notified will keep you informed of all the details regarding the shows you want to watch and when they are about to start - direct to your inbox. Only have access to e-mail? No problem. Notified will keep you informed of all the details regarding the shows you want to watch and when they are about to start - direct to your inbox. Notified supports AOL, Yahoo and MSN messenger so when your shows are about to start our little friend will give you a quick reminder. Notified can even be added on your friendlist so you can ask it for the status of your TV shows.Only have access to e-mail? No problem. Notified will keep you informed of all the details regarding the shows you want to watch and when they are about to start - direct to your inbox. Only have access to e-mail? No problem. Notified will keep you informed of all the details regarding the shows you want to watch and when they are about to start - direct to your inbox. Notified supports AOL, Yahoo and MSN messenger so when your shows are about to start our little friend will give you a quick reminder. Notified can even be added on your friendlist so you can ask it for the status of your TV shows.</p>
+		</div>
+		<div class="info note-2">
+			<h3 class="title">Notified supports AOL, Yahoo and   MSN messenger</h3>
+			<p>Only have access to e-mail? No problem. Notified will keep you informed of all the details regarding the shows you want to watch and when they are about to start - direct to your inbox. Only have access to e-mail? No problem. Notified will keep you informed of all the details regarding the shows you want to watch and when they are about to start - direct to your inbox. Notified supports AOL, Yahoo and MSN messenger so when your shows are about to start our little friend will give you a quick reminder. Notified can even be added on your friendlist so you can ask it for the status of your TV shows.Only have access to e-mail? No problem. Notified will keep you informed of all the details regarding the shows you want to watch and when they are about to start - direct to your inbox. Only have access to e-mail? No problem. Notified will keep you informed of all the details regarding the shows you want to watch and when they are about to start - direct to your inbox. Notified supports AOL, Yahoo and MSN messenger so when your shows are about to start our little friend will give you a quick reminder. Notified can even be added on your friendlist so you can ask it for the status of your TV shows.</p>
+		</div>
+    <div class="clear">
+	  </div>
+  </div>
+</div>
 <!--Fooder -->
+<div id="footer">
+	<div class="inner" style="color: white">
+		Copyright 2008 Runsystem Corporation, All right reserved
+	</div>
+</div>
 </body>
 </html>
